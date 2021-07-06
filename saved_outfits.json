@@ -1,0 +1,27 @@
+{
+    "Outfit 1": {
+        "Top": "black pullover",
+        "Bottom": "blue joggers/leggings",
+        "Accessory": "black beanie"
+    },
+    "Outfit 2": {
+        "Top": "steel grey gym hoodie",
+        "Bottom": "steel grey joggers",
+        "Accessory": "forest green running jacket"
+    },
+    "Outfit 3": {
+        "Top": "steel grey gym hoodie",
+        "Bottom": "steel grey joggers",
+        "Accessory": "steel grey running jacket"
+    },
+    "Outfit 4": {
+        "Top": "green pullover",
+        "Bottom": "blue joggers/leggings",
+        "Accessory": "black beanie"
+    },
+    "Outfit 5": {
+        "Top": "red oversized hoodie",
+        "Bottom": "white cargo pants",
+        "Accessory": "black jean jacket"
+    }
+}
